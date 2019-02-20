@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Internal palette -->
+    <color name="MyCompanyWhite">#ededed</color>
+    <color name="MyCompanyGrey">#b7b7b7</color>
+    <color name="MyCompanyRed">#5b0c00</color>
+    <color name="MyCompanyBlue">#00235b</color>
+    <color name="MyCompanyGreen">#005b12</color>
+
+    <!-- Definitions -->
+    <color name="toolbarColour">@color/MyCompanyGreen</color>
+    <color name="overallBackground">@color/MyCompanyWhite</color>
+    <color name="headerBackground">@color/MyCompanyGrey</color>
+    <color name="headerText">@color/MyCompanyRed</color>
+    <color name="bodyBackground">@color/MyCompanyBlue</color>
+    <color name="bodyText">@color/MyCompanyWhite</color>
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+    android:orientation="vertical">
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="I'm a header!"
+                android:textSize="22sp"
+                android:layout_marginBottom="5dp"
+                android:background="@color/headerBackground"
+                android:textColor="@color/headerText"/>
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="I'm just some text!"
+                android:textSize="16sp"
+                android:layout_marginBottom="5dp"
+                android:background="@color/bodyBackground"
+                android:textColor="@color/bodyText"/>
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="I'm more text!"
+                android:textSize="16sp"
+                android:layout_marginBottom="5dp"
+                android:background="@color/bodyBackground"
+                android:textColor="@color/bodyText"/>
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="I'm another header!"
+                android:textSize="22sp"
+                android:layout_marginBottom="5dp"
+                android:background="@color/headerBackground"
+                android:textColor="@color/headerText"/>
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="I'm yet more text!"
+                android:textSize="16sp"
+                android:layout_marginBottom="5dp"
+                android:background="@color/bodyBackground"
+                android:textColor="@color/bodyText"/>
+
+    </LinearLayout>
+</ScrollView>
