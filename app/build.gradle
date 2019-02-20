@@ -14,6 +14,16 @@ android {
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
+
+    flavorDimensions "company"
+    productFlavors {
+        MyCompany {
+            dimension "company"
+        }
+        OtherCompany {
+            dimension "company"
+        }
+    }
     buildTypes {
         release {
             minifyEnabled false

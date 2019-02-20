@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Internal palette -->
+    <color name="OtherCompanyOrange">#996300</color>
+    <color name="OtherCompanyYellow">#d3cc00</color>
+    <color name="OtherCompanyRed">#990a00</color>
+    <color name="OtherCompanyWhite">#efefef</color>
+
+    <!-- Definitions -->
+    <color name="toolbarColour">@color/OtherCompanyRed</color>
+    <color name="overallBackground">@color/OtherCompanyWhite</color>
+    <color name="headerBackground">@color/OtherCompanyOrange</color>
+    <color name="headerText">@color/OtherCompanyWhite</color>
+    <color name="bodyBackground">@color/OtherCompanyYellow</color>
+    <color name="bodyText">@color/OtherCompanyWhite</color>
+</resources>

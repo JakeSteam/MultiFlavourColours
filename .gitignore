@@ -19,3 +19,7 @@
 \.idea/runConfigurations\.xml
 
 \.idea/vcs\.xml
+
+gradlew
+
+gradlew\.bat
